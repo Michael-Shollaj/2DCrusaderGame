@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Shadows
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 1
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b97a1e2feca4cb845be3764e9c4af271, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8d78b383c69954d41afa50d69b21dac8, type: 3}
+  - {fileID: 21300000, guid: 64b50a2c061a3244592079301986d35a, type: 3}
+  - {fileID: 21300000, guid: 26dfd205d90a1f54faae56165790f37a, type: 3}
+  - {fileID: 21300000, guid: 3884aa429490eb24683140f4e5624e71, type: 3}
+  - {fileID: 21300000, guid: 92ca5822e68156a48a408b3fcf0f8cf9, type: 3}
+  - {fileID: 21300000, guid: 95beb9b8323b9be448ac1b9614f8b20d, type: 3}
+  - {fileID: 21300000, guid: 4eed78bdaa9797d4cb50e3822957fc37, type: 3}
+  - {fileID: 21300000, guid: a0fa5d20d3ae8d042a22aa3b5505590f, type: 3}
+  - {fileID: 21300000, guid: 639506fa6b98e7b4aaba8bd05c3482db, type: 3}
+  - {fileID: 21300000, guid: 29cb64f1c92121e499859bf47f529012, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Vines1
+  - Gate
+  - Pillar
+  - Vines2
+  - Stave
+  - Plant1
+  - Plant4
+  - Plant2
+  - Plant3
+  - Plant5
+  m_Tag: Shadows
+  m_IsVariant: 0

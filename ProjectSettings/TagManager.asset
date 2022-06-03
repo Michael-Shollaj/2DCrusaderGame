@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spike
+  - GM
+  - Ladder
+  - Enemy
+  - Sea
+  - Water
+  - FxTemporaire
+  - Box
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Enemy
+  - PostProcessing
+  - Player
+  - Platforms
+  - Traps
+  - Spike
+  - Water
+  - Arrow
+  - Corpse
+  - Boxx
+  - Stomp
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1335905351
+    locked: 0
+  - name: Platforms
+    uniqueID: 2169251753
+    locked: 0
+  - name: Player
+    uniqueID: 4108630093
+    locked: 0
+  - name: Foreground
+    uniqueID: 404911505
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

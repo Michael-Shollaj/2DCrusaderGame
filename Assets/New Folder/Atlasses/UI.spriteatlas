@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: UI
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7f23dfa942162b844a5a60f41be146c6, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 115825964d4883b42a6c335918fc6117, type: 3}
+  - {fileID: 21300000, guid: 4b1d93035ede2514882f6dc83ae68509, type: 3}
+  - {fileID: 21300000, guid: f84a4b0eb69747642866fe34cb0d890d, type: 3}
+  - {fileID: 21300000, guid: c13505851e6d5e04ca9905d7e43f88b1, type: 3}
+  - {fileID: 21300000, guid: 83cb4504b84ec6247a3a124acb17abae, type: 3}
+  - {fileID: 21300000, guid: 636ed0cdf1aaefb449bb78c764976e04, type: 3}
+  - {fileID: 21300000, guid: 7a092b973237a2643a9100eacc58402e, type: 3}
+  - {fileID: 21300000, guid: 6819cb1211043884c957210e9b7da794, type: 3}
+  - {fileID: 21300000, guid: f0ee3a640d27f7a45bbf5304967361d2, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Splash Screen
+  - Fade Out
+  - PR-Logo
+  - Robbie Icon
+  - DPad Background
+  - DPad Thumb
+  - Time Icon
+  - Orb Icon
+  - FadeRamp
+  m_Tag: UI
+  m_IsVariant: 0
